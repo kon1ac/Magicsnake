@@ -1,0 +1,14 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\bin\Debug\net6.0\MagicSnake.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\bin\Debug\net6.0\MagicSnake.deps.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\bin\Debug\net6.0\MagicSnake.runtimeconfig.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\bin\Debug\net6.0\MagicSnake.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\bin\Debug\net6.0\MagicSnake.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\refint\MagicSnake.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\MagicSnake.genruntimeconfig.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicSnake\MagicSnake\obj\Debug\net6.0\ref\MagicSnake.dll
